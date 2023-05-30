@@ -1,0 +1,35 @@
+.movieContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    padding-left: 14px;
+    margin: auto;
+  }
+  
+  .movieCard {
+    border: 3px solid red;
+    border-radius: 2rem;
+    background-color: brown;
+    height: 320px;
+    width: 250px;
+    padding: 1rem;
+  }
+  
+  .image {
+    height: 200px;
+    width: 160px;
+  }
+  
+  .name {
+    margin: 0;
+  }
+  
+  .button {
+    background-color: rgb(22, 3, 40);
+    color: white;
+    border: none;
+    border-radius: 0.2rem;
+    margin-top: 1rem;
+  }
+  
